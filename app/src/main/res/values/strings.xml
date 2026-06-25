@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlmoxTech</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_nome">Nome completo</string>
+    <string name="hint_confirmar_senha">Confirmar senha</string>
+    <string name="btn_entrar">ENTRAR</string>
+    <string name="btn_cadastrar">CADASTRAR</string>
+    <string name="btn_voltar">VOLTAR AO LOGIN</string>
+    <string name="btn_criar_conta">CRIAR CONTA</string>
+    <string name="btn_sair">SAIR</string>
+    <string name="msg_campos_obrigatorios">Preencha todos os campos</string>
+    <string name="msg_email_invalido">E-mail inválido</string>
+    <string name="msg_senha_curta">A senha deve ter pelo menos 6 caracteres</string>
+    <string name="msg_senhas_diferentes">As senhas não coincidem</string>
+    <string name="msg_email_existente">Este e-mail já está cadastrado</string>
+    <string name="msg_cadastro_sucesso">Conta criada com sucesso!</string>
+    <string name="msg_login_erro">E-mail ou senha incorretos</string>
+    <string name="rodape">AlmoxTech © 2026 · UniProjeção</string>
+</resources>
