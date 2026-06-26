@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.almoxtech.R;
+import com.example.myapplication.R;
 import com.example.myapplication.model.AppDatabase;
 import com.example.myapplication.model.Requisicao;
 import com.github.mikephil.charting.charts.BarChart;

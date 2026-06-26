@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.almoxtech'
+    namespace 'com.example.myapplication'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.almoxtech"
+        applicationId "com.example.myapplication"
         minSdk 24
         targetSdk 34
         versionCode 1

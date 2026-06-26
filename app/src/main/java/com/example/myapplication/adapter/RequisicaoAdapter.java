@@ -1,7 +1,5 @@
 package com.example.myapplication.adapter;
 
-import static android.os.Build.VERSION_CODES.R;
-
 import android.content.Context;
 import android.graphics.Color;
 import android.view.LayoutInflater;

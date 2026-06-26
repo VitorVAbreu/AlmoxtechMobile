@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.almoxtech.R;
+import com.example.myapplication.R;
 import com.example.myapplication.adapter.ProdutoAdapter;
 import com.example.myapplication.model.AppDatabase;
 import com.example.myapplication.model.Produto;

@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.almoxtech.R;
+import com.example.myapplication.R;
 import com.example.myapplication.model.AppDatabase;
 import com.example.myapplication.model.Usuario;
 import com.example.myapplication.util.Senhas;

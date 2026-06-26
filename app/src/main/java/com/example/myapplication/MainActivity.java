@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.almoxtech.R;
+import com.example.myapplication.R;
 import com.example.myapplication.util.SessionManager;
 
 public class MainActivity extends AppCompatActivity {
